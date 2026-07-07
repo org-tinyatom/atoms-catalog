@@ -1,4 +1,20 @@
 {
-  "generatedAt": "2026-07-07T02:33:05.000Z",
-  "atoms": []
+  "generatedAt": "2026-07-07T04:23:23.628Z",
+  "atoms": [
+    {
+      "id": "autocuts-clips",
+      "name": "Autocuts Clips",
+      "version": "0.1.5",
+      "capabilities": [
+        "terminal",
+        "clipboard",
+        "filesystem",
+        "storage",
+        "media",
+        "speech"
+      ],
+      "packageUrl": "https://github.com/org-tinyatom/atoms-catalog/releases/download/autocuts-clips-v0.1.5/autocuts-clips-0.1.5.tgz",
+      "packageSha256": "76853098c52e5f7dee4cc9842083841a61123a5695a12660f788f963e74b6fa9"
+    }
+  ]
 }
