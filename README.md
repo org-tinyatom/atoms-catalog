@@ -5,11 +5,12 @@ the public catalog of atoms available in the TinyAtom marketplace.
 
 ## Getting your atom into the catalog
 
-You do not add atoms to this repository directly. Submit your atom in the submissions repository. Once it
-has been reviewed and accepted, it appears here and in the TinyAtom marketplace:
-
-https://github.com/org-tinyatom/atom-submissions
+You do not add atoms to this repository directly. Build your atom in the TinyAtom desktop app and publish
+it to the public marketplace from there. Once it has been reviewed and accepted, it appears here and in the
+marketplace.
 
 ## Questions
 
-Open an issue in the submissions repository linked above.
+Open an issue in the submissions repository:
+
+https://github.com/org-tinyatom/atom-submissions
