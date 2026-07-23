@@ -1,38 +1,4 @@
 {
-  "generatedAt": "2026-07-13T03:57:01.220Z",
-  "atoms": [
-    {
-      "id": "autocuts-clips",
-      "name": "Autocuts Clips",
-      "version": "0.1.5",
-      "capabilities": [
-        "terminal",
-        "clipboard",
-        "filesystem",
-        "storage",
-        "media",
-        "speech"
-      ],
-      "packageUrl": "https://github.com/org-tinyatom/atoms-catalog/releases/download/autocuts-clips-v0.1.5/autocuts-clips-0.1.5.tgz",
-      "packageSha256": "76853098c52e5f7dee4cc9842083841a61123a5695a12660f788f963e74b6fa9"
-    },
-    {
-      "id": "rekorder",
-      "name": "Rekorder",
-      "version": "0.0.1",
-      "capabilities": [
-        "clipboard",
-        "external-links",
-        "filesystem",
-        "storage",
-        "camera",
-        "microphone",
-        "screen-capture",
-        "media",
-        "speech"
-      ],
-      "packageUrl": "https://github.com/org-tinyatom/atoms-catalog/releases/download/rekorder-v0.0.1/rekorder-0.0.1.tgz",
-      "packageSha256": "3c8af762658be2edad4a6577c7c744730e3bb793ce5b40f37c8e11f6cbf29971"
-    }
-  ]
+  "generatedAt": "2026-07-23T22:22:03.497Z",
+  "atoms": []
 }
